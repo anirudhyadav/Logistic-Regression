@@ -65,7 +65,7 @@ Made with ❤️ by Anirudh Yadav
 
 
 📢 Medium Article & GitHub Link
-	•	📖 [Read the full article on Medium → Coming Soon]
+	•	📖 Medium: https://medium.com/@anirudhyadav_90257/logistic-regression-701d16989e60 
 	•	🔗 GitHub: https://github.com/yourusername/logistic-regression-learning
 
 
